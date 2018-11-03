@@ -2,7 +2,7 @@ package main
 
 /**
  * @see https://qiita.com/hiro9/items/e6e41ec822a7077c3568
- * @see @see https://stackoverflow.com/questions/20170275/how-to-find-a-type-of-an-object-in-go
+ * @see https://stackoverflow.com/questions/20170275/how-to-find-a-type-of-an-object-in-go
  */
 
 import (
